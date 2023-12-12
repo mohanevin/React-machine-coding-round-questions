@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.accordion {
+  width: 90%;
+  margin: 4px auto;
+  padding: 8px;
+  border: 1px solid rgb(218, 212, 212);
+}
+.accordion-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.accordion-btn {
+  width: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2rem;
+  background: rgb(209, 209, 209);
+  background: transparent;
+  border-color: transparent;
+  font-size: 28px;
+  cursor: pointer;
+}
