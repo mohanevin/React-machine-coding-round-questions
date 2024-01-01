@@ -1,0 +1,11 @@
+.outer-Container {
+  height: 40px;
+  border: 1px black solid;
+  margin: 20px 0;
+}
+.inner-Container {
+  height: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
